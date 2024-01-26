@@ -2,7 +2,7 @@
 
 Here is our app screenshots:
 
-![alt text](https://github.com/umarbeyoglu/Egitim-Showcase/blob/main/images/Screenshot1.png "Lectures List")
+![alt text](https://github.com/umarbeyoglu/Egitim-Showcase/blob/main/images/Screenshot1.png "Lectures List" | height : 500)
 ![alt text](https://github.com/umarbeyoglu/Egitim-Showcase/blob/main/images/Screenshot_20240125_151951.png "Lecture Details")
 ![alt text](https://github.com/umarbeyoglu/Egitim-Showcase/blob/main/images/Screenshot_20240125_153504.png "Lecture Attendance List")
 ![alt text](https://github.com/umarbeyoglu/Egitim-Showcase/blob/main/images/Screenshot_20240125_153931.png "Lecture Attendance Students List")
