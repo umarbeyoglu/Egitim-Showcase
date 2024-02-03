@@ -3,46 +3,46 @@
 Here are our app screenshots:
 
 # Lectures List
-![alt text](https://github.com/umarbeyoglu/Egitim-Showcase/blob/main/images/Screenshot1.png)
+<img src="https://github.com/umarbeyoglu/Egitim-Showcase/blob/main/images/Screenshot1.png" width=50% height=50%>
 
 # Lecture Details
-![alt text](https://github.com/umarbeyoglu/Egitim-Showcase/blob/main/images/Screenshot_20240125_151951.png "Lecture Details")
+<img src="https://github.com/umarbeyoglu/Egitim-Showcase/blob/main/images/Screenshot_20240125_151951.png" width=50% height=50%>
 
 # Lecture Attendance List
-![alt text](https://github.com/umarbeyoglu/Egitim-Showcase/blob/main/images/Screenshot_20240125_153504.png "Lecture Attendance List")
+<img src="https://github.com/umarbeyoglu/Egitim-Showcase/blob/main/images/Screenshot_20240125_153504.png" width=50% height=50%>
 
 # Lecture Attendance Students List
-![alt text](https://github.com/umarbeyoglu/Egitim-Showcase/blob/main/images/Screenshot_20240125_153931.png "Lecture Attendance Students List")
+<img src="https://github.com/umarbeyoglu/Egitim-Showcase/blob/main/images/Screenshot_20240125_153931.png" width=50% height=50%>
 
 # Lectures Student Details
-![alt text](https://github.com/umarbeyoglu/Egitim-Showcase/blob/main/images/Screenshot_20240125_152326.png "Lecture Student Details")
+<img src="https://github.com/umarbeyoglu/Egitim-Showcase/blob/main/images/Screenshot_20240125_152326.png" width=50% height=50%>
 
 # Lectures Announcements
-![alt text](https://github.com/umarbeyoglu/Egitim-Showcase/blob/main/images/Screenshot_20240125_154022.png "Lecture Announcements")
+<img src="https://github.com/umarbeyoglu/Egitim-Showcase/blob/main/images/Screenshot_20240125_154022.png" width=50% height=50%>
 
 # Lectures Attendance Students List
-![alt text](https://github.com/umarbeyoglu/Egitim-Showcase/blob/main/images/Screenshot_20240125_152333.png "Lecture Attendance Students List")
+<img src="https://github.com/umarbeyoglu/Egitim-Showcase/blob/main/images/Screenshot_20240125_152333.png" width=50% height=50%>
 
 # Lectures To-Do List
-![alt text](https://github.com/umarbeyoglu/Egitim-Showcase/blob/main/images/Screenshot_20240125_154050.png "Lecture To-Do List")
+<img src="https://github.com/umarbeyoglu/Egitim-Showcase/blob/main/images/Screenshot_20240125_154050.png" width=50% height=50%>
 
 # Lectures Students List
-![alt text](https://github.com/umarbeyoglu/Egitim-Showcase/blob/main/images/Screenshot_20240125_152614.png "Lecture Students List")
+<img src="https://github.com/umarbeyoglu/Egitim-Showcase/blob/main/images/Screenshot_20240125_152614.png" width=50% height=50%>
 
 # Lectures Exam Results List
-![alt text](https://github.com/umarbeyoglu/Egitim-Showcase/blob/main/images/Screenshot_20240125_154218.png "Lecture Exam Results List")
+<img src="https://github.com/umarbeyoglu/Egitim-Showcase/blob/main/images/Screenshot_20240125_154218.png" width=50% height=50%>
 
 # Lectures Exam Grades List
-![alt text](https://github.com/umarbeyoglu/Egitim-Showcase/blob/main/images/Screenshot_20240125_154309.png "Lecture Exam Grades List")
+<img src="https://github.com/umarbeyoglu/Egitim-Showcase/blob/main/images/Screenshot_20240125_154309.png" width=50% height=50%>
 
 # Lectures Teachers List
-![alt text](https://github.com/umarbeyoglu/Egitim-Showcase/blob/main/images/Screenshot_20240125_152702.png "Lecture Teachers List")
+<img src="https://github.com/umarbeyoglu/Egitim-Showcase/blob/main/images/Screenshot_20240125_152702.png" width=50% height=50%>
 
 # Lectures Questions List
-![alt text](https://github.com/umarbeyoglu/Egitim-Showcase/blob/main/images/Screenshot_20240125_152815.png "Lecture Questions List")
+<img src="https://github.com/umarbeyoglu/Egitim-Showcase/blob/main/images/Screenshot_20240125_152815.png" width=50% height=50%>
 
 # Lectures Messages List
-![alt text](https://github.com/umarbeyoglu/Egitim-Showcase/blob/main/images/Screenshot_20240125_154432.png "Lecture Messages List")
+<img src="https://github.com/umarbeyoglu/Egitim-Showcase/blob/main/images/Screenshot_20240125_154432.png" width=50% height=50%>
 
 # Lectures Commence Times List
-![alt text](https://github.com/umarbeyoglu/Egitim-Showcase/blob/main/images/Screenshot_20240125_153401.png "Lecture Commence Times List")
+<img src="https://github.com/umarbeyoglu/Egitim-Showcase/blob/main/images/Screenshot_20240125_153401.png" width=50% height=50%>
